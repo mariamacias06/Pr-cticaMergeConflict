@@ -6,5 +6,8 @@ def main():
     c = M.sumaA(a,b)
     print(f"El resultado de la suma de a y b es {c}")
 
+print("Hola mundo")
+print("Saludos desde A")
+
 if __name__ == "__main__":
     main()
